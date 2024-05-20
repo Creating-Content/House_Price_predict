@@ -5,9 +5,13 @@ In this project, we'll predict future house prices. We'll use data from the Fede
 This project can be customized to predict house prices in your metro area if you live in the US.
 
 # Project Steps
-
+<br>
 Load in data
+<br>
 Clean and merge data
+<br>
 Create an initial machine learning model and estimate accuracy
+<br>
 Improve the accuracy of the model
+<br>
 Run diagnostics to figure out how we can improve
